@@ -25,6 +25,14 @@ body {
     flex-direction: row;
     
 }
+a {
+    color: unset;
+    text-decoration: none;
+}
+a:hover {
+    color: unset;
+    text-decoration: none;
+}
 
 .column {
     margin: auto;
