@@ -138,14 +138,7 @@ body {
 .content2 {
     max-width: 180px;
 }
-a {
-    color: unset;
-    text-decoration: none;
-}
-a:hover {
-    color: unset;
-    text-decoration: none;
-}
+
 .part2-img{
     border-radius: 100%;
 }
